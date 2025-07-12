@@ -36,8 +36,10 @@ body{
 /* header */
 header{
     background-image: url(../Assets/Hero-bg.png);
-    width: 100%;
+    width: 1920px;
     margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 150px;
 
 }
@@ -233,7 +235,7 @@ nav div h2{
     width: 1000px;
     border-radius: 20px;
     padding: 0px 245px 30px;
-    border-radius: 15px;
+    border-radius: 15 px;
 }
 
 /* Let's Get In Touch Section */
